@@ -1,0 +1,22 @@
+--- 
+cursor_positions: 
+  - :path: README.rdoc
+    :cursor_offset: 0
+    :timestamp: 2012-05-30 22:33:57.126000 -04:00
+  - :path: config/routes.rb
+    :cursor_offset: 1499
+    :timestamp: 2012-05-31 00:42:49.901000 -04:00
+    :selection_offset: 1526
+    :block_selection_mode: false
+  - :path: app/controllers/welcome_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-05-31 00:42:49.898000 -04:00
+  - :path: app/views/welcome/index.html.erb
+    :cursor_offset: 95
+    :timestamp: 2012-05-31 01:01:46.965000 -04:00
+    :selection_offset: 0
+    :block_selection_mode: false
+  - :path: public/index_bkup.html
+    :cursor_offset: 0
+    :timestamp: 2012-05-30 22:33:58.774000 -04:00
+files_to_retain: 0

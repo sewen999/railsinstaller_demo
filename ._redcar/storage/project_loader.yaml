@@ -1,0 +1,6 @@
+--- 
+open_files: 
+  - README.rdoc
+  - config/routes.rb
+  - app/controllers/welcome_controller.rb
+  - app/views/welcome/index.html.erb
